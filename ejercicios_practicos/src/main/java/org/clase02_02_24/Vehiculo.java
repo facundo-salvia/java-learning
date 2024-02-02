@@ -1,4 +1,4 @@
-package org.example;
+package org.clase02_02_24;
 
 public class Vehiculo {
     private String modelo;

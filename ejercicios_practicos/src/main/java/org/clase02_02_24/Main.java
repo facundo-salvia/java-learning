@@ -1,4 +1,4 @@
-package org.example;
+package org.clase02_02_24;
 
 import java.util.*;
 import java.util.stream.Collectors;
