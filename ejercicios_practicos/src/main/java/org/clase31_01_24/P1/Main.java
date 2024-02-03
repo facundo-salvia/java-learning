@@ -1,10 +1,4 @@
-package org.clase31_01_24;
-
-import org.clase02_02_24.Garage;
-import org.clase02_02_24.Vehiculo;
-
-import java.util.*;
-import java.util.stream.Collectors;
+package org.clase31_01_24.P1;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
