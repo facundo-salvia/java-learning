@@ -1,4 +1,4 @@
-package org.clase01_02_24;
+package org.clase01_02_24.poo_p1;
 
 public class Persona {
     String nombre;
