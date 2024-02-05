@@ -1,4 +1,4 @@
-package org.clase02_02_24;
+package org.clase02_02_24.segunda_parte;
 
 public class Vehiculo {
     private String modelo;

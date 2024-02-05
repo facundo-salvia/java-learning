@@ -16,8 +16,8 @@ public class Distribuidora {
 
         double precioTotal=0;
 
-        for (int i = 0; i < productsArray.size(); i++) {
-            precioTotal += productsArray.get(i).calcular(1);
+        for (Producto producto : productsArray) {
+            precioTotal += producto.calcular(1);
         }
 
         System.out.println(precioTotal);
